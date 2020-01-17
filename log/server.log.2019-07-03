@@ -1,0 +1,7 @@
+2019-07-03 15:59:23,032 - INFO - args: {} - {'action': 'presence', 'time': 1562158763.0313432, 'user': {'account_name': 'Guest'}} - <function process_client_message at 0x009F07C8>
+2019-07-03 16:00:02,678 - INFO - args: {} - {'action': 'presence', 'time': 1562158802.6770391, 'user': {'account_name': 'Guest'}} - <function process_client_message at 0x009F07C8>
+2019-07-03 16:01:55,274 - INFO - args: {'action': 'presence', 'time': 1562158915.2735283, 'user': {'account_name': 'Guest'}} - {RESPONCE: 200} - <function process_client_message at 0x002D07C8>
+2019-07-03 16:02:17,741 - INFO - args: {'action': 'presence', 'time': 1562158937.7405248, 'user': {'account_name': 'Guest'}} - {RESPONCE: 200} - <function process_client_message at 0x002D07C8>
+2019-07-03 16:03:09,318 - INFO - args: {'action': 'presence', 'time': 1562158989.3178277, 'user': {'account_name': 'Guest'}} - {RESPONCE: 200} - <function process_client_message at 0x002D07C8>
+2019-07-03 16:13:12,846 - INFO - args: {'action': 'presence', 'time': 1562159592.8452046, 'user': {'account_name': 'Guest'}} - {RESPONCE: 200} - <function process_client_message at 0x002D07C8>
+2019-07-03 16:13:29,264 - INFO - args: {'action': 'presence', 'time': 1562159609.263076, 'user': {'account_name': 'Guest'}} - {RESPONCE: 200} - <function process_client_message at 0x002D07C8>
